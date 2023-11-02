@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.MovieApp.model.Movie;
 import com.MovieApp.repository.MovieRepository;
-
+//1
 @Service
 public class MovieServiceImplementation implements MovieServices {
 	

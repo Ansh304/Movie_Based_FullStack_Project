@@ -9,3 +9,4 @@ import com.MovieApp.model.Movie;
 public interface MovieRepository extends JpaRepository<Movie,Integer>{
 
 }
+//1

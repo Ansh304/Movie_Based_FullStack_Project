@@ -1,5 +1,6 @@
 package com.MovieApp.model;
 
+// 1
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 @Entity

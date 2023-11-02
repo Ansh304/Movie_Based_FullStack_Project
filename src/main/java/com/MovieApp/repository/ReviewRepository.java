@@ -9,3 +9,4 @@ import com.MovieApp.model.Review;
 public interface ReviewRepository extends JpaRepository<Review,Integer>{
 
 }
+//1
